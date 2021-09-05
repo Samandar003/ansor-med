@@ -140,10 +140,12 @@ body {
   color: #000;
   text-align: center;
   padding-bottom: 120px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .services-heading {
   margin: 120px 654px 56px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 
@@ -164,6 +166,10 @@ body {
 
 .service img {
   margin-right: 64px;
+}
+
+.service-desc {
+  font-family: 'Open Sans', sans-serif;
 }
 
 .apply3 {
@@ -187,7 +193,7 @@ body {
   color: #DE2E54;
   background-color: white;
   border-radius: 5px;
-  
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .apply3:active {
@@ -201,6 +207,7 @@ body {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
+  font-family: 'Open Sans Condensed', sans-serif;
 
 }
 
