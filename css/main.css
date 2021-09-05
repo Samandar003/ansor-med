@@ -92,11 +92,11 @@ body {
   opacity: 0.6;
 }
 
-.hijoma {
+.offer-description {
   padding-bottom: 36px;
 }
 
-.tabiiy {
+.offer {
   line-height: 35px;
 }
 
@@ -125,7 +125,7 @@ body {
   opacity: 0.6;
 }
 
-.qism1 {
+.section1 {
   font-family: Open Sans;
   background-color: #0EB4C1;
   display: flex;
